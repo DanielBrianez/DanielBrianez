@@ -1,83 +1,54 @@
-<!-- Banner -->
+## ✨ Olá, eu sou o Daniel Nascimento ✨
+
+- Analista de Qualidade de Software (QA) — Testes Manuais & Automatizados  
+- Experiência com Selenium, Cucumber, Postman e Jest  
+- Em formação como Dev Full Stack | Aprendendo C# e aprimorando automação  
+- Entusiasta de tecnologia, qualidade e boas práticas de desenvolvimento  
+
+---
+
+## 🖥️ Languages & Tools  
+
+<!-- Badges de linguagens -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Portugol](https://img.shields.io/badge/Portugol-2C2C2C?style=for-the-badge&logoColor=white)
+
+<!-- Badges de front-end -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Badges de testes -->
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<!-- Badges de banco de dados -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<!-- Badges de versionamento -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## ⚡ GitHub Stats  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielbrianez/assets/main/banner-github.png" alt="Banner Daniel Nascimento" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 
-<!-- Título -->
-<h1 align="center">Olá, eu sou o Daniel Nascimento 👋</h1>
-<h3 align="center">Analista de QA | Testes Manuais & Automatizados | Dev em Formação</h3>
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<!-- Linguagens -->
-<p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-    <img src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="C#"/>
-  </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank">
-    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
-  </a>
-  <a href="https://pt.wikipedia.org/wiki/Portugol" target="_blank">
-    <img src="https://i.ibb.co/3fK5T9y/portugol-icon.png" alt="Portugol" width="48"/>
-  </a>
-</p>
-
-<!-- Front-end -->
-<p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  </a>
-</p>
-
-<!-- Testes -->
-<p align="left">
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="Selenium"/>
-  </a>
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://i.ibb.co/YPZz4JD/jest-icon.png" alt="Jest" width="48"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" alt="Cucumber" width="48"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman"/>
-  </a>
-</p>
-
-<!-- Banco de Dados -->a
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://i.ibb.co/VLnt8Fb/sqlite-icon.png" alt="SQLite" width="48"/>
-  </a>
-</p>
-
-<!-- Controle de Versão -->
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="background-color:#000; border-radius:5px;"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
 
-## 🧪 Especialidades em Qualidade de Software
+## 📬 Reach me  
 
-- **Testes Manuais**: Planeja
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Seu_Linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor)]()
