@@ -37,8 +37,9 @@
 
 ## ⚡ GitHub Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielBrianez&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrianez&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
+!<img src="https://github-readme-stats.vercel.app/api?username=DanielBrianez&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrianez&layout=compact&theme=tokyonight" alt="Top Langs"/>
 
 ---
 
