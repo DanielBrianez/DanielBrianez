@@ -1,10 +1,10 @@
-## ✨ Olá, eu sou o Daniel Nascimento ✨
- 
-- Membro da **G9 do Programa ONE - Oracle Next Education** pela Alura  
-- Participante do **Programa Transforme-se** da Serasa Experian  
-- Praticando automação com Selenium, Cucumber, Postman e Jest  
-- Em formação como Dev FullStack | Estudante de Qualidade de Software (QA)
-- Entusiasta de tecnologia, qualidade e boas práticas de desenvolvimento  
+## ✨ Hello, I'm Daniel Nascimento ✨
+
+- Member of **G9 - Oracle Next Education (ONE) Program** by Alura  
+- Participant in the **Transforme-se Program** by Serasa Experian  
+- Practicing automation with Selenium, Cucumber, Postman, and Jest  
+- Full Stack Development in progress | Software Quality Assurance (QA) student  
+- Technology enthusiast, passionate about quality and best development practices  
 
 ---
 
