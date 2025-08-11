@@ -56,7 +56,7 @@
   </a>
 </p>
 
-<!-- Banco de Dados -->
+<!-- Banco de Dados -->a
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
