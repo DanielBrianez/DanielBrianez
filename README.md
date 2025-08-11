@@ -47,5 +47,5 @@
 
 ## 📬 Reach me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Seu_Linkedin](https://www.linkedin.com/in/daniel-nascimento-2729941a8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/daniel-nascimento-2729941a8/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/danthedev11)
