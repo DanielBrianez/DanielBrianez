@@ -1,8 +1,7 @@
 ## ✨ Olá, eu sou o Daniel Nascimento ✨
 
-- Analista de Qualidade de Software (QA) — Testes Manuais & Automatizados  
-- Experiência com Selenium, Cucumber, Postman e Jest  
-- Em formação como Dev Full Stack | Aprendendo C# e aprimorando automação  
+- Estudante de Qualidade de Software (QA) — Testes Manuais & Automatizados  
+- Em formação como Dev FullStack | Aprendendo C# e aprimorando automação  
 - Entusiasta de tecnologia, qualidade e boas práticas de desenvolvimento  
 
 ---
