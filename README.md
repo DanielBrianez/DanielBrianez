@@ -1,7 +1,9 @@
 ## ✨ Olá, eu sou o Daniel Nascimento ✨
-
-- Estudante de Qualidade de Software (QA) — Testes Manuais & Automatizados  
-- Em formação como Dev FullStack | Aprendendo C# e aprimorando automação  
+ 
+- Membro da **G9 do Programa ONE - Oracle Next Education** pela Alura  
+- Participante do **Programa Transforme-se** da Serasa Experian  
+- Praticando automação com Selenium, Cucumber, Postman e Jest  
+- Em formação como Dev FullStack | Estudante de Qualidade de Software (QA)
 - Entusiasta de tecnologia, qualidade e boas práticas de desenvolvimento  
 
 ---
